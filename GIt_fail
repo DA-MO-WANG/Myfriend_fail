@@ -3,5 +3,7 @@
   fatal: Could not read from remote repository.  
   On branch master  
   nothing to commit, working tree clean  
+  ====》可能是网络原因导致失败，在提交之前保证先把代码拉下来，再与本地合并，再提交
+
 
   
